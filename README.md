@@ -1,2 +1,2 @@
 # Cafeteria-projeto
-Iniciando somente com recurso do HTML 
+Iniciando somente com recursos do HTML 
